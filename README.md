@@ -6,6 +6,6 @@ To jest testowe repo pythona
 - asdfasdf
 - asdfsd
 
-``` pytnon
+``` python
 print("Hello World!")
 ```
